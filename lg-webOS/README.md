@@ -2,18 +2,11 @@
 
 ## LG Developer Setup
 
-Install the [webOS TV SDK CLI](http://webostv.developer.lge.com/sdk/installation/). Choose the minimal installer and extract the zip once it's downloaded.
-
-After extracting the zip, run the installer with the following command:
-```shell
-$ sudo /path/to/extracted/zip/installer_mac64
-```
-
-When the installer opens, just install the CLI. You can optionally install the emulator if you do not have a test TV.
+Make sure you have the [webOS TV SDK CLI](http://webostv.developer.lge.com/sdk/installation/) installed.
 
 Follow the steps [here](https://webostv.developer.lge.com/develop/app-test) to create an LG Developer account, enable Developer Mode on your LG TV, and connect your computer to the TV.
 
-Finally, set an environment variable with whatever you named your TV/emulator when following the setup instructions.
+Finally, set an environment variable with the name that you used for your TV/emulator when following the setup instructions.
 
 ```shell
 $ export DEVICE_NAME=YOUR_DEVICE_NAME
