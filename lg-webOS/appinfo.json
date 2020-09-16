@@ -1,0 +1,11 @@
+{
+  "id": "com.braze.websdk.test",
+  "version": "0.0.1",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "Braze Web SDK Test",
+  "icon": "braze-icon.png",
+  "largeIcon": "braze-icon.png",
+  "iconColor": "#FFFFFF"
+}

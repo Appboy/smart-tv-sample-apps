@@ -1,0 +1,11 @@
+.DS_Store
+
+node_modules
+
+# Tizen Studio
+.settings/
+.metadata
+
+# webOS TV SDK output files
+*.ipk
+TV_logs

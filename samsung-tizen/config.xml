@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://braze.com/BrazeWebSDKTizenSample" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="jhh25gEVYd.BrazeWebSDKTizenSample" package="jhh25gEVYd" required_version="2.3"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
+    <icon src="braze-icon.png"/>
+    <name>BrazeWebSDKTizenSample</name>
+    <tizen:profile name="tv-samsung"/>
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>

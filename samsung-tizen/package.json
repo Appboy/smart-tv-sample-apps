@@ -1,0 +1,14 @@
+{
+  "name": "braze-web-sdk-tizen-sample",
+  "version": "1.0.0",
+  "description": "Sample app for integrating the Braze Web SDK into Samsung Smart TVs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@braze/web-sdk-core": "^3.0.1"
+  }
+}
